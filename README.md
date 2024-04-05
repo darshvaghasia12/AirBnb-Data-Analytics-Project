@@ -16,7 +16,7 @@
     </ul>
     <h2>Getting Started</h2>
     <ol>
-        <li><strong>Clone the Repository:</strong> Clone this GitHub repository to your local machine using the following command:<br><code>git clone https://github.com/your-username/airbnb-data-analytics-project.git</code></li>
+        <li><strong>Clone the Repository:</strong> Clone this GitHub repository to your local machine using the following command:<br><code>git clone git@github.com:darshvaghasia12/AirBnb-Data-Analytics-Project.git</code></li>
         <li><strong>Install Tableau Public:</strong> If you haven't already, download and install Tableau Public from the official website: <a href="https://public.tableau.com/en-us/s/download">Tableau Public</a>.</li>
         <li><strong>Obtain the Dataset:</strong> Obtain the Airbnb dataset used in this project. You can find suitable datasets from sources like Inside Airbnb (<a href="http://insideairbnb.com/get-the-data.html">Inside Airbnb</a>).</li>
         <li><strong>Import Data into Tableau:</strong> Import the Airbnb dataset into Tableau Public to start exploring the data and replicating the analysis.</li>
