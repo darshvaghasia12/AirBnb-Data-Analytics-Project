@@ -24,7 +24,7 @@
     </ol>
     <h2>Project Contributors</h2>
     <ul>
-        <li><a href="https://github.com/your-username">Your Name</a></li>
+        <li><a href="https://github.com/darshvaghasia12">Darsh Maheshkumar Vaghasia</a></li>
     </ul>
     <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
